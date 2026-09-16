@@ -16,9 +16,9 @@
 
 I bridge the gap between **fundamental AI research** and **scalable production systems**. My work focuses on how learning architectures can evolve dynamically, reason under uncertainty, and operate autonomously in real-world environments.
 
-- 🔬 **Research Interests:** Reinforcement Learning (Medical/Control), Bio-inspired & Sparse Neural Networks, Cognitive Architectures, Predictive Coding, Model Quantization.
-- 🛠️ **Engineering Focus:** Autonomous Agent Systems (MCP, Tool Calling), Production Hybrid RAG, MLOps pipelines, Low-latency inference systems.
-- 💻 **Core Stack:** Python (PyTorch, FastAPI, HuggingFace), TypeScript / React / Next.js, C / Systems, Docker, PostgreSQL / pgvector.
+- 🔬 **Research Interests:** Reinforcement Learning (Medical & Control), Bio-inspired & Sparse Neural Networks, Cognitive Architectures, Predictive Coding, Model Quantization.
+- 🛠️ **Engineering Focus:** Autonomous Agent Systems (MCP, Tool Calling), Production Hybrid RAG, Evaluation Sandboxes, MLOps Pipelines.
+- 💻 **Core Stack:** Python (PyTorch, FastAPI, Hugging Face), TypeScript / React / Next.js, C / Systems, Docker, PostgreSQL / pgvector.
 
 ---
 
@@ -29,7 +29,8 @@ I bridge the gap between **fundamental AI research** and **scalable production s
 | [**ChemoRL**](https://github.com/VMHETAR/ChemoRL) | Medical RL & Vision | Personalized lung cancer chemotherapy dosing via vision-based RL interacting with a generative disease progression simulator. |
 | [**TurboQuant**](https://github.com/VMHETAR/TurboQuant) | Quantization & Efficiency | PyTorch reproduction and benchmark of TurboQuant algorithms (`TurboQuantMSE`, `TurboQuantProd`) for accelerated inference. |
 | [**MoSAIC**](https://github.com/VMHETAR/MoSAIC) | Sparse Neural Networks | Memory-Optimized Sparse Adaptive Computation: dynamic synaptic growth & pruning inspired by biological neural plasticity. |
-| [**AutoDataCheck (ADRE)**](https://github.com/VMHETAR/AutoDataCheck) | Epistemic Validation | Autonomous Data Reality Engine: evaluates claim validity and epistemic certainty before data enters LLM training corpora. |
+| [**ADRE**](https://github.com/VMHETAR/ADRE) | Epistemic Validation | Autonomous Data Reality Engine: evaluates claim validity and epistemic certainty before data enters training pipelines. |
+| [**Synapt**](https://github.com/VMHETAR/Synapt) | Bio-Inspired Plasticity | Neural architecture framework fusing Bayesian inference with Hebbian plasticity rules. |
 | [**Cognetia**](https://github.com/VMHETAR/Cognetia) | Cognitive Architectures | Experimental cognitive agent modeling explicit belief states, uncertainty calibration, and habit formation. |
 | [**SituationalPredCoding**](https://github.com/VMHETAR/SituationalPredCoding) | Neuroscience & AI | Structural learning framework utilizing predictive coding principles without dense pixel-level supervision. |
 
@@ -42,8 +43,8 @@ I bridge the gap between **fundamental AI research** and **scalable production s
 | [**AgentOps**](https://github.com/VMHETAR/AgentOps) | Python, MCP, FastAPI, Next.js | Autonomous ML experimentation agent that plans, trains, statistically validates, registers, and deploys models from natural language objectives. |
 | [**ResearchAssistant**](https://github.com/VMHETAR/ResearchAssistant) | Next.js 14, FastAPI, pgvector | Local-first research paper manager with hybrid RAG (BM25 + dense), grounded inline citations, and automated literature reviews. |
 | [**ReceptionistAI**](https://github.com/VMHETAR/ReceptionistAI) | Python, Voice AI, Hybrid RAG | Production AI receptionist handling multi-channel booking, billing, and inquiry workflows. |
-| [**SupportGen**](https://github.com/VMHETAR/SupportGen) | Python, LLM Fine-Tuning | Fine-tuned support system with automatic ticket classification, sentiment analysis, and grounded retrieval. |
 | [**Codez**](https://github.com/VMHETAR/Codez) | Python, MCP, GitHub API, Slack | Enterprise AI agent integrating codebases with GitHub and Slack for human-in-the-loop branch verification. |
+| [**CodeAssistEnv**](https://github.com/VMHETAR/CodeAssistEnv) | Python, Docker, OpenEnv | Dockerized execution and evaluation sandbox environment for code-generation AI agents. |
 | [**Portfolio**](https://github.com/VMHETAR/Portfolio) | Next.js 15, TypeScript, Framer Motion | Dark editorial personal portfolio showcasing research, engineering projects, and technical writing. |
 
 ---
