@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FF87,25:60EFFF,50:00B4D8,75:7000FF,100:FF007A&height=230&section=header&text=VARAD%20MHETAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%88%BF%20AI%20RESEARCHER%20%C2%B7%20NEURAL%20SYSTEMS%20%C2%B7%20AUTONOMOUS%20AGENTS%20%E2%88%BF&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&width=780&height=50&lines=%3E_varad.init()+%7C+AI+Researcher+%26+Systems+Architect;%3E_load_models(%22ChemoRL%22%2C+%22TurboQuant%22%2C+%22MoSAIC%22);%3E_agentops+run+--loop+%22autonomous-ml-experiments%22;%3E_status+%3A+Synthesizing+Bio-Inspired+AI+%26+Production+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&width=780&height=50&lines=%3E_varad.init()+%7C+%26+Systems+Architect;%3E_load_models(%22ChemoRL%22%2C+%22TurboQuant%22%2C+%22MoSAIC%22);%3E_agentops+run+--loop+%22autonomous-ml-experiments%22;%3E_status+%3A+Synthesizing+Bio-Inspired+AI+%26+Production+Systems)](https://git.io/typing-svg)
 
 <!-- QUICK HUD NAVIGATION -->
 <p align="center">
