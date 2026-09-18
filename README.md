@@ -4,11 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FF87,25:60EFFF,50:00B4D8,75:7000FF,100:FF007A&height=230&section=header&text=VARAD%20MHETAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%88%BF%20AI%20RESEARCHER%20%C2%B7%20NEURAL%20SYSTEMS%20%C2%B7%20AUTONOMOUS%20AGENTS%20%E2%88%BF&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&width=780&height=50&lines=%3E_varad.init()+%7C+%26+Systems+Architect;%3E_load_models(%22ChemoRL%22%2C+%22TurboQuant%22%2C+%22MoSAIC%22);%3E_agentops+run+--loop+%22autonomous-ml-experiments%22;%3E_status+%3A+Synthesizing+Bio-Inspired+AI+%26+Production+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&width=780&height=50&lines=%3E_varad.init()+%7C+%26+Systems+Architect;%3E_load_models(%22ChemoRL%22%2C+%22TurboQuant%22%2C+%22MoSAIC%22);%3E_deep_ml.solve(%22SVD%22%2C+%22Superposition%22%2C+%22Eigen%22);%3E_agentops+run+--loop+%22autonomous-ml-experiments%22;%3E_status+%3A+Synthesizing+Bio-Inspired+AI+%26+Production+Systems)](https://git.io/typing-svg)
 
 <!-- QUICK HUD NAVIGATION -->
 <p align="center">
   <a href="https://portfolio-ten-beta-887asknygz.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF88" alt="Portfolio" /></a>
+  <a href="https://VMHETAR.github.io/deep-ml/" target="_blank"><img src="https://img.shields.io/badge/DEEP--ML-MATH_%26_ALGORITHMS-000000?style=for-the-badge&logo=codeforces&logoColor=00E5FF" alt="Deep ML" /></a>
   <a href="https://www.linkedin.com/in/varad-mhetar-723b30306/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/VaradM2005" target="_blank"><img src="https://img.shields.io/badge/TWITTER_%2F_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://github.com/VMHETAR?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-23_ACTIVE-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Repos" /></a>
@@ -73,7 +74,26 @@
 
 ---
 
-### 💻 `[03]` Cybernetic Toolchain & Runtime Environment
+### 🧮 `[03]` First-Principles ML & Algorithmic Mechanics
+
+```bash
+╭─ varad@core ~/deep-ml-engine ─────────────────────────────────────────────────────────────
+╰─$ deep-ml --verify --tensor-ops --svd --eigen --superposition --benchmark-all
+```
+
+<div align="center">
+
+| Mathematical & Algorithmic Track | Core First-Principles Implementations | Verification & Interactive Canvas |
+| :--- | :--- | :---: |
+| ⚡ **Mechanistic Interpretability & Deep Nets** | Toy Models of Superposition (Feature Reconstruction), Custom MLP forward/backward with `nn.Sequential` | [![Interactive](https://img.shields.io/badge/Interactive_Canvas-00FF88?style=flat-square&logo=githubpages&logoColor=black)](https://VMHETAR.github.io/deep-ml/) |
+| 📐 **Linear Algebra & Matrix Decompositions** | Singular Value Decomposition ($2 \times 2$ SVD), Eigenvalue solvers, Matrix Transformation, Jacobi Method | [![Deep-ML Repo](https://img.shields.io/badge/Deep--ML_Solutions-00E5FF?style=flat-square&logo=github&logoColor=black)](https://github.com/VMHETAR/deep-ml) |
+| 📊 **Statistical Foundations & Tensor Calculus** | Covariance Matrix estimation, Omitted-Variable Bias, Matrix Inversion, Row/Col Reductions, Dot Products | ![100% Handcrafted](https://img.shields.io/badge/100%25_Handcrafted-Passed-7928CA?style=flat-square) |
+
+</div>
+
+---
+
+### 💻 `[04]` Cybernetic Toolchain & Runtime Environment
 
 <div align="center">
 
@@ -103,7 +123,7 @@
 
 ---
 
-### 📊 `[04]` Global Activity Telemetry & Performance Matrix
+### 📊 `[05]` Global Activity Telemetry & Performance Matrix
 
 <div align="center">
 
